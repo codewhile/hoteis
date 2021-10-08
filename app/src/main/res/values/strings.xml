@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="error">Error 404</string>
+    <string name="title_activity_teste">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hotel_share">Eu classifiquei o hotel %1$s com %2$.1f estrelas </string>
+</resources>
